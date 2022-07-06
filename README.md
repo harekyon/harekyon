@@ -10,10 +10,7 @@
  \/  \/\____/\_____/\____/\___/\_|  |_/\____/
                                              
 
-I'm Harekyon. From Japan.
-My favorite field is Frontend.
-WEB,Game,CreativeCode,DigitalFabrication.
-Interesting, Uplifting and intriguing, We aim to create such products.
+I'm Harekyon. 4649
 
 ```
 
